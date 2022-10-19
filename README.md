@@ -1,3 +1,3 @@
 # calcute-percentage
 
-with html and css calculate the pragressbar.
+with html and css, we calculate the pragressbar.
